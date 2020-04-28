@@ -6,18 +6,9 @@
   </head>
 <body>
   
-  <div id="netflix">
-  
+<h1>Welcome</h1>
   
 
-  <div class="collection">
-
-       <a class="collection__item">
-    </a>
-    
-  </div>
-  
-</div>
 
 </body>
 </html>
